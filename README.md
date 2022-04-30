@@ -12,3 +12,14 @@
 ## 植物推荐
 
 - [新手植物推荐](https://post.smzdm.com/p/a7859qqo/)
+
+
+## 番茄
+
+[如何在阳台上种番茄/西红柿（上集）](https://www.bilibili.com/video/BV1ob411g7HG)
+[如何在阳台上种番茄/西红柿（下集）](https://www.bilibili.com/video/BV14441147Vz)
+
+
+## 草莓
+
+[如何种植草莓](https://www.bilibili.com/video/BV1WP4y1t795)
