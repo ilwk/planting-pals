@@ -5,4 +5,10 @@
 ## 前期准备
 
 - [容器选择](./docs/容器选择.md)
-- []
+- [基质](https://post.smzdm.com/p/ax0xw7rw/)
+- [配土与选盆](https://post.smzdm.com/p/a4woeqkx/)
+
+
+## 植物推荐
+
+- [新手植物推荐](https://post.smzdm.com/p/a7859qqo/)
