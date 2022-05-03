@@ -18,7 +18,7 @@
 
 - [如何在阳台上种番茄/西红柿（上集）](https://www.bilibili.com/video/BV1ob411g7HG)
 - [如何在阳台上种番茄/西红柿（下集）](https://www.bilibili.com/video/BV14441147Vz)
-
+- [盆栽番茄的定植和盆土的配比](https://www.bilibili.com/video/BV1pr4y1n7T6)
 
 ## 草莓
 
