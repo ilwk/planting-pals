@@ -22,4 +22,5 @@
 
 ## 草莓
 
+- [草莓品种大全](https://www.hualaojiang.com/huahuidaquan/scsg/2431.html)
 - [如何种植草莓](https://www.bilibili.com/video/BV1WP4y1t795)
