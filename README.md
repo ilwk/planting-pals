@@ -12,7 +12,7 @@
 ## 植物推荐
 
 - [新手植物推荐](https://post.smzdm.com/p/a7859qqo/)
-
+- [家庭果树选择指南](https://post.smzdm.com/p/a3g7xde5/)
 
 ## 番茄
 
