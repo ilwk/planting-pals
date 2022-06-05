@@ -8,7 +8,7 @@
 - [基质](https://post.smzdm.com/p/ax0xw7rw/)
 - [配土与选盆](https://post.smzdm.com/p/a4woeqkx/)
 - [种植术语](./docs/%E7%A7%8D%E6%A4%8D%E6%9C%AF%E8%AF%AD.md)
-- [化肥与农药](./docs/化肥与农药.md)
+- [肥料与农药](./docs/肥料与农药.md)
 
 ## 植物推荐
 
