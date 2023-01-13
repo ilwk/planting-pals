@@ -27,3 +27,8 @@
 - [如何种植草莓](https://www.bilibili.com/video/BV1WP4y1t795)
 - [0基础种植草莓](https://post.smzdm.com/p/aoo6r3dn/)
 - [高山草莓](https://www.bilibili.com/read/cv5359529/)
+
+
+## 其他
+
+- [下沉式暖房](https://thetinylife.com/sunken-greenhouse/)
