@@ -32,3 +32,4 @@
 ## 其他
 
 - [下沉式暖房](https://thetinylife.com/sunken-greenhouse/)
+- [中国各城市光照强度](http://www.stats.gov.cn/tjsj/ndsj/2021/html/C08-08.jpg)
