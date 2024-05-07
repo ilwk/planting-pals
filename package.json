@@ -1,0 +1,21 @@
+{
+  "name": "planting-pals",
+  "version": "0.0.1",
+  "description": "A document for plant enthusiasts to connect and share their experiences and knowledge.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "planting",
+    "pals",
+    "planting pals"
+  ],
+  "author": "ilwk",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.1.4"
+  }
+}
