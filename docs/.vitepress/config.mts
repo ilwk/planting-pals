@@ -22,7 +22,10 @@ export default defineConfig({
       },
       {
         text: '植物推荐',
-        items: [{ text: '新手推荐', link: '/recommend/noob-recommend-planting' }],
+        items: [
+          { text: '新手推荐', link: '/recommend/noob-recommend-planting' },
+          { text: '蓝莓', link: '/recommend/blueberry' },
+        ],
       },
     ],
 
